@@ -1,6 +1,7 @@
 {
     "name": "gbu/quick",
     "description": "Test",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "GBU\\": "app/"

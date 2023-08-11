@@ -13,5 +13,7 @@
             "email": "awasthi.amitk@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+         "php": ">=8.0"
+    }
 }

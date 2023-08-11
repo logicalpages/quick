@@ -1,0 +1,16 @@
+{
+    "name": "gbu/demo",
+    "description": "Test",
+    "autoload": {
+        "psr-4": {
+            "GBU\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amit K",
+            "email": "awasthi.amitk@gmail.com"
+        }
+    ],
+    "require": {}
+}

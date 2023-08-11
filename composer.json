@@ -1,5 +1,5 @@
 {
-    "name": "gbu/demo",
+    "name": "gbu/quick",
     "description": "Test",
     "autoload": {
         "psr-4": {
